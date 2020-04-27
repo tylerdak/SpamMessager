@@ -1,4 +1,4 @@
-# Spam Messager
+![Spam Messager](banner.png)
 Spam Messager can be used to rapidly send messages word by word.
 This can be very annoying to the recipients yet provide lots of fun to the sender.
 
