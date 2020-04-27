@@ -19,6 +19,12 @@ PyAutoGUI is also very necessary for this program! You can install it with pip.
 
 
 ---
-Feel free to use this code for non-commercial purposes, free of attribution. If you have any questions or concerns, you can contact me by email at [dakint@icloud.com](mailto:dakint@icloud.com).
+If you have any questions or concerns, you can contact me by email at [dakint@icloud.com](mailto:dakint@icloud.com).
 
 You can come back to this repo with the URL: https://tylerdakin.com/SpamMessager
+
+#### Usage Rights
+© 2020 Tyler Dakin
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
+[![CC-BY License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
